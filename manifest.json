@@ -1,0 +1,14 @@
+{
+  "name": "Coin Rush",
+  "short_name": "Coin Rush",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {"src":"icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
